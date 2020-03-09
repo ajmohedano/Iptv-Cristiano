@@ -1,4 +1,5 @@
 #EXTM3U
+#Autor: ajmohedano, MArzo 2020
 
 #EXTINF:-1 group-title="Gospel Español",Alfa tv [SD]
 http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
@@ -15,12 +16,7 @@ http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 group-title="Gospel Español",Comunion TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 
-http://christianiptv.blogspot.com/search/label/ELTV%20Kids
-
-#EXTINF:-1 group-title="Gospel Español",EsperanzaTv [SD]
-https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Gospel Español",EsperanzaTv [HD]
+#EXTINF:-1 group-title="Gospel Español",EsperanzaTv
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8
 
 #EXTINF:-1, group-title="Gospel Español",EXTREMA TV CANAL CRISTIANO
@@ -49,7 +45,6 @@ http://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 group-title="Gospel Español",Unción 24
 http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-
 
 
 
